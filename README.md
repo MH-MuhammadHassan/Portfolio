@@ -1,6 +1,6 @@
 # 👨‍💻 Muhammad Hassan's Flutter Portfolio
 
-![Portfolio Banner](your-banner-image.jpg)
+![Portfolio Banner](profilebanner.jpg)
 
 Welcome to my personal Flutter portfolio showcasing four high-performance mobile apps built with Flutter and Firebase, REST APIs, and clean architecture. Each project demonstrates modern UI/UX design, responsive layouts, and robust features to attract potential clients or employers.
 

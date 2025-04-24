@@ -4,102 +4,59 @@
 
 Welcome to my personal Flutter portfolio showcasing four high-performance mobile apps built with Flutter and Firebase, REST APIs, and clean architecture. Each project demonstrates modern UI/UX design, responsive layouts, and robust features to attract potential clients or employers.
 
+---
+
 # 💻 LaptopHarbor – E-Commerce App (Flutter + Firebase)
 
 ![LaptopHarbor Banner](banner.jpg)
 
 LaptopHarbor is a modern, scalable, and user-friendly mobile e-commerce application built using **Flutter** and **Firebase**. Designed for seamless shopping experiences, this app supports both **user and admin roles** with distinct dashboards and functionality.
 
----
-
-## 📱 Application Features
-
-- 🌗 Light & Dark Mode
-- 🌍 Available in English & easily extendable to new languages
-- 🔐 Secure Authentication (Login/Sign Up), Google SignIn, Password Reset
-- 🎉 Beautiful onboarding screens
-- 🛍️ Shop by category, search by name
-- 🧠 Filter products by name, category, and price (low-high)
-- ❤️ Save products to Wishlist
-- 👤 Manage account details & change password
-- 🛒 Add to cart, order products
-- 📝 Product pages with ratings, reviews, and detailed descriptions
-- 💳 Stripe Payment Integration (Coming Soon)
-- 📱 Responsive UI with adaptive layout (Dark/Light)
-- 🔔 Push Notifications (Upcoming)
-- 💾 Persistent login & theme using Shared Preferences
-- 🗂️ Firebase-powered backend
+### 📱 Application Features
+- 🌗 Light & Dark Mode  
+- 🌍 Multi-language ready (default: English)  
+- 🔐 Secure Authentication (Login/Sign Up), Google Sign-In, Password Reset  
+- 🎉 Onboarding screens  
+- 🛍️ Category-wise shopping, search functionality  
+- 🧠 Advanced filtering (name, category, price)  
+- ❤️ Wishlist functionality  
+- 👤 Account management  
+- 🛒 Add to cart, place orders  
+- 📝 Detailed product views with ratings/reviews  
+- 💳 Stripe Payment Integration (Coming Soon)  
+- 🔔 Push Notifications (Upcoming)  
+- 💾 Persistent login & theme (Shared Preferences)  
 - 📊 Admin Panel:
-  - Add/Update/Delete products & categories
-  - Manage banners, orders, and delivery pricing
-  - Track user wishlists & orders
+  - Manage products, categories, orders, and delivery pricing  
+  - Manage banners  
+  - Track user orders and wishlists  
 
----
+### 🔍 Project Description
+- User-friendly shopping experience  
+- Real-time order tracking  
+- Powerful admin tools  
+- Secure transactions  
+- Clean architecture
 
-## 🔍 Project Description
+### ✅ Functional Requirements
+- 👤 Auth (Sign up/login/reset)  
+- 🧑‍💼 Profile management  
+- 🖥️ Product listings and filters  
+- 📄 Product reviews  
+- 🛒 Cart and checkout  
+- 🚚 Order tracking  
+- 🔍 Search functionality  
+- 💖 Wishlist  
+- 📞 Support form
 
-The **LaptopHarbor** app is crafted to offer users a seamless and efficient platform to browse, compare, and purchase laptops and accessories. With an intuitive interface and rich features, it simplifies the shopping experience, offering:
-
-- **User-friendly browsing**
-- **Comprehensive product info**
-- **Smart search and filtering**
-- **Secure transactions**
-- **Real-time order tracking**
-- **Admin tools for product and order management**
-
----
-
-## ✅ Functional Requirements
-
-### 👤 User Authentication
-- Sign up, login, and reset password
-- Secure session management with Shared Preferences
-
-### 🧑‍💼 User Profile & Settings
-- Update profile, change password, manage contact info
-
-### 🖥️ Product Listings
-- View by category, brand, price, and specs
-- Smart filtering and sorting
-
-### 📄 Product Details & Reviews
-- Detailed descriptions, high-res images, user ratings
-- Review and rate products
-
-### 🛒 Shopping Cart
-- Add, edit, and remove items
-- View cart summary and totals
-
-### 🧾 Checkout & Order
-- Secure checkout with billing/shipping info
-- Email confirmations and order summaries
-
-### 🚚 Order Tracking
-- Track orders in real-time with notifications
-
-### 🔍 Search
-- Search laptops or accessories by name or brand
-- Apply filters for better results
-
-### 💖 Wish List
-- Add and manage favorites from user profile
-
-### 📞 Feedback & Support
-- In-app customer support contact form
-
----
-
-## 🧰 Tech Stack
-
-- **Frontend:** Flutter (Dart)
-- **Backend:** Firebase Auth, Firestore
-- **State Management:** Provider
-- **Storage:** Shared Preferences for session and theme persistence
+### 🧰 Tech Stack
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase Auth, Firestore  
+- **State Management:** Provider  
+- **Storage:** Shared Preferences  
 - **Other:** Firebase Core, Navigation 2.0, Clean Architecture
 
----
-
-🔗 **GitHub:** [LaptopHarbor GitHub Repo](https://github.com/MH-MuhammadHassan/LaptopHarbor-E-Commerce-App)
+🔗 **GitHub:** [LaptopHarbor Repo](https://github.com/MH-MuhammadHassan/LaptopHarbor-E-Commerce-App)
 
 ---
 
@@ -107,115 +64,72 @@ The **LaptopHarbor** app is crafted to offer users a seamless and efficient plat
 
 ![Flutter News App Banner](flutternewsbanner.jpg)
 
-The **Flutter News App** is a sleek, real-time news reader app built using **Flutter** and **REST APIs**. It offers a modern interface, category-based filtering, optimized image loading, and smooth performance. Ideal for those learning API integration, UI design, and Flutter development best practices.
+A real-time news app using **Flutter** and **REST APIs**. Features include a clean UI, optimized image loading, and filter systems by category/source.
+
+### 📱 Application Features
+- 🌟 Splash screen with **Flutter Spinkit**  
+- 📰 Live news with images, source & timestamps  
+- 🧭 Filter by category/source (BBC, Al Jazeera, Axios, etc.)  
+- 🖼️ CachedNetworkImage for image loading  
+- 🧩 Responsive layout  
+- 🕒 Localized date/time with `intl`  
+- 🎨 Custom themes with Google Fonts  
+- 💾 Shared Preferences for theme persistence (Upcoming)
+
+### 🔍 Project Description
+- Browse breaking news  
+- Explore by topic/source  
+- Learn REST API integration  
+- Responsive UI design
+
+### ✅ Functional Requirements
+- 🔐 Splash screen with animation  
+- 📰 Article feed with meta info  
+- 🗂️ Category/provider filters  
+- 🔍 Search & article details (Upcoming)  
+- ⚙️ Theme settings (Planned)
+
+### 🧰 Tech Stack
+- **Flutter (Dart)**  
+- **API Integration:** `http`  
+- **Image:** CachedNetworkImage  
+- **Date/Time:** `intl`  
+- **Typography:** Google Fonts  
+- **State:** `setState`, FutureBuilder  
+- **Persistence:** Shared Preferences (planned)
+
+🔗 **GitHub:** [Flutter News App Repo](https://github.com/MH-MuhammadHassan/flutter_news_app)
 
 ---
 
-## 📱 Application Features
-
-- 🌟 Beautiful splash screen with **Flutter Spinkit**
-- 📰 Live headlines with **images, titles, sources, and publish dates**
-- 🧭 Filter news by **category** (business, technology, etc.) and **source** (BBC, Al Jazeera, ARY, Axios)
-- 🖼️ Optimized image loading using **CachedNetworkImage**
-- 🧩 Responsive layout with clean, modern UI
-- 🕒 Localized time formatting with `intl`
-- 🎨 Custom theming using **Google Fonts**
-- 💾 Persistent theme and session support using **Shared Preferences** (Upcoming)
-
----
-
-## 🔍 Project Description
-
-The **Flutter News App** delivers a smooth and intuitive experience for browsing the latest news from various credible sources. Built with RESTful API integration and modern UI/UX design practices, it helps users:
-
-- Stay updated with breaking headlines
-- Filter and explore topics of interest
-- Enjoy a polished, responsive mobile experience
-- Learn about API handling and clean Flutter architecture
-
----
-
-## ✅ Functional Requirements
-
-### 🔐 Splash & Loading
-- Animated splash screen using **Spinkit**
-- Loader shown while fetching data
-
-### 📰 News Listing
-- Browse articles with full image and meta info
-- Scrollable feed with automatic updates
-
-### 🗂️ Filtering System
-- Filter articles by **category** and **news provider**
-- Multiple predefined filters
-
-### 🔍 Search & Details
-- In-app search (Upcoming)
-- Detailed article views (Coming Soon)
-
-### ⚙️ Settings
-- Persistent dark/light theme support using Shared Preferences (Planned)
-
----
-
-## 🧰 Tech Stack
-
-- **Frontend:** Flutter (Dart)
-- **API Integration:** REST API using `http`
-- **Image Optimization:** CachedNetworkImage
-- **Date Formatting:** `intl` package
-- **Loaders:** Flutter Spinkit
-- **Typography:** Google Fonts
-- **State Management:** setState / FutureBuilder (simple state)
-- **Session/Theme:** Shared Preferences (planned)
-
----
-
-🔗 **GitHub:** [Flutter News App GitHub Repo](https://github.com/MH-MuhammadHassan/flutter_news_app)
-
----
-
-# 🌦️ Weather App - Flutter
+# 🌦️ Weather App (Flutter + OpenWeatherMap API)
 
 ![Weather App Banner](weatherappbanner.jpg)
 
-A beautifully crafted Weather App built with **Flutter**, delivering real-time weather updates using the [OpenWeatherMap API](https://openweathermap.org/). The app demonstrates responsive UI design, external API integration, and custom widget architecture for seamless user experience.
+A clean, responsive weather app using **Flutter** and the **OpenWeatherMap API**, showing live weather, forecasts, and modular components.
 
----
+### 🚀 Features
+- 🔁 Live data via `http`  
+- 🌡️ Current weather:
+  - Temperature, condition, humidity, wind, pressure  
+- 🕐 Hourly forecast  
+- 🧱 Reusable widgets  
+- 🌍 Ready for multiple locations  
+- 🕓 Time formatting with `intl`  
+- 🧮 Light calculations using `math_expressions`  
+- 💾 Persistent state with Shared Preferences
 
-## 🚀 Features
-
-- 🔁 Real-time weather data fetching using `http`
-- 🌡️ Current weather display:
-  - Temperature
-  - Weather condition
-  - Humidity
-  - Wind speed
-  - Atmospheric pressure
-- 🕐 Hourly weather forecast
-- 🎨 Sleek, clean, and fully responsive user interface
-- 🧱 Modular architecture with custom reusable widgets
-- 🌍 Multi-location support ready
-- 🕓 Time formatting using `intl`
-- 🧮 Lightweight calculations using `math_expressions`
-- 💾 State persistence using **Shared Preferences**
-
----
-
-## 🧰 Tech Stack
-
-- **Framework:** Flutter
-- **Language:** Dart
-- **API:** OpenWeatherMap
-- **Packages:**
-  - [`http`](https://pub.dev/packages/http)
-  - [`intl`](https://pub.dev/packages/intl)
-  - [`math_expressions`](https://pub.dev/packages/math_expressions)
+### 🧰 Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **API:** OpenWeatherMap  
+- **Packages:**  
+  - [`http`](https://pub.dev/packages/http)  
+  - [`intl`](https://pub.dev/packages/intl)  
+  - [`math_expressions`](https://pub.dev/packages/math_expressions)  
   - [`shared_preferences`](https://pub.dev/packages/shared_preferences)
 
----
-
-🔗 **GitHub:** [Weather App GitHub Repo](https://github.com/MH-MuhammadHassan/weather-app)
+🔗 **GitHub:** [Weather App Repo](https://github.com/MH-MuhammadHassan/weather-app)
 
 ---
 
@@ -223,57 +137,33 @@ A beautifully crafted Weather App built with **Flutter**, delivering real-time w
 
 ![Flutter Calculator Banner](fluttercalculatorbanner.jpg)
 
-The **Flutter Calculator App** is a sleek, minimalistic calculator built using **Flutter** and the `math_expressions` package. Designed for responsiveness and accuracy, it supports core arithmetic operations with a clean, intuitive user interface.
+A minimal calculator app built with **Flutter**, using `math_expressions`. Responsive, accurate, and ideal for basic arithmetic and UI learning.
 
----
+### 📱 Features
+- ➕ Basic operations: +, −, ×, ÷  
+- 🧹 AC and DEL functionality  
+- 🧠 Expression parsing via `math_expressions`  
+- 📱 Responsive layout  
+- 🧩 Custom button widgets
 
-## 📱 Application Features
+### 🔍 Description
+- Clean minimal UI  
+- Accurate expression evaluation  
+- Ideal for Flutter beginners  
+- Extendable for advanced math
 
-- ➕ Basic operations: **Addition, Subtraction, Multiplication, Division**
-- 🧹 **AC (All Clear)** and **DEL (Delete)** buttons for easy expression handling
-- 🧠 Expression evaluation using **math_expressions**
-- 📱 Responsive design for various screen sizes and orientations
-- 🧩 Custom button widgets for consistency and clarity
+### ✅ Functional Requirements
+- 🔢 Calculator engine with parsing  
+- 🧼 Clear/delete controls  
+- 🎨 Button grid layout
 
----
+### 🧰 Tech Stack
+- **Framework:** Flutter  
+- **Math Engine:** `math_expressions`  
+- **UI Toolkit:** Custom Widgets + Material  
+- **State Management:** `setState`
 
-## 🔍 Project Description
-
-The **Flutter Calculator App** aims to provide users with a smooth, responsive, and functional experience for solving basic mathematical expressions. Ideal for Flutter beginners or those looking to understand widget layouts and state management fundamentals.
-
-- Minimal UI with elegant interaction
-- Accurate result parsing and evaluation
-- Easily extendable for scientific functions or advanced math
-
----
-
-## ✅ Functional Requirements
-
-### 🔢 Calculator Engine
-- Input numbers and operations
-- Evaluate full expressions using `Parser` from `math_expressions`
-
-### 🧼 UI Controls
-- All Clear resets the input and result
-- Delete removes the last character
-- Real-time display of input and output
-
-### 🎨 Interface
-- Button grid UI with responsive layout
-- Custom button components for flexibility
-
----
-
-## 🧰 Tech Stack
-
-- **Framework:** Flutter (Dart)
-- **Math Engine:** `math_expressions` package
-- **UI Toolkit:** Custom Widgets + Material Components
-- **State Management:** `setState()` based for simplicity
-
----
-
-🔗 **GitHub:** [Calculator App GitHub Repo](https://github.com/MH-MuhammadHassan/Flutter-Calculator-App)
+🔗 **GitHub:** [Calculator App Repo](https://github.com/MH-MuhammadHassan/Flutter-Calculator-App)
 
 ---
 
@@ -297,6 +187,4 @@ I'm open to freelance opportunities, collaborations, or full-time roles.
 
 **Muhammad Hassan**  
 📧 [LinkedIn Profile](https://www.linkedin.com/in/mh-muhammadhassan/)  
-📍 Location: Pakistan | 🌍 Remote Available  
-
----
+📍 Location: Pakistan | 🌍 Remote Available

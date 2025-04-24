@@ -1,6 +1,6 @@
 # 👨‍💻 Muhammad Hassan's Flutter Portfolio
 
-![Portfolio Banner](profilebanner.jpg)
+![Portfolio Banner](.github/images/profilebanner.jpg)
 
 Welcome to my personal Flutter portfolio showcasing four high-performance mobile apps built with Flutter and Firebase, REST APIs, and clean architecture. Each project demonstrates modern UI/UX design, responsive layouts, and robust features to attract potential clients or employers.
 
@@ -8,7 +8,7 @@ Welcome to my personal Flutter portfolio showcasing four high-performance mobile
 
 # 💻 LaptopHarbor – E-Commerce App (Flutter + Firebase)
 
-![LaptopHarbor Banner](banner.jpg)
+![LaptopHarbor Banner](.github/images/banner.jpg)
 
 LaptopHarbor is a modern, scalable, and user-friendly mobile e-commerce application built using **Flutter** and **Firebase**. Designed for seamless shopping experiences, this app supports both **user and admin roles** with distinct dashboards and functionality.
 
@@ -62,7 +62,7 @@ LaptopHarbor is a modern, scalable, and user-friendly mobile e-commerce applicat
 
 # 📰 Flutter News App – Live News with Filters (Flutter + REST API)
 
-![Flutter News App Banner](flutternewsbanner.jpg)
+![Flutter News App Banner](.github/images/flutternewsbanner.jpg)
 
 A real-time news app using **Flutter** and **REST APIs**. Features include a clean UI, optimized image loading, and filter systems by category/source.
 
@@ -104,7 +104,7 @@ A real-time news app using **Flutter** and **REST APIs**. Features include a cle
 
 # 🌦️ Weather App (Flutter + OpenWeatherMap API)
 
-![Weather App Banner](weatherappbanner.jpg)
+![Weather App Banner](.github/images/weatherappbanner.jpg)
 
 A clean, responsive weather app using **Flutter** and the **OpenWeatherMap API**, showing live weather, forecasts, and modular components.
 
@@ -135,7 +135,7 @@ A clean, responsive weather app using **Flutter** and the **OpenWeatherMap API**
 
 # 🧮 Flutter Calculator App
 
-![Flutter Calculator Banner](fluttercalculatorbanner.jpg)
+![Flutter Calculator Banner](.github/images/fluttercalculatorbanner.jpg)
 
 A minimal calculator app built with **Flutter**, using `math_expressions`. Responsive, accurate, and ideal for basic arithmetic and UI learning.
 

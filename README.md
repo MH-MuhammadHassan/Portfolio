@@ -99,7 +99,7 @@ The **LaptopHarbor** app is crafted to offer users a seamless and efficient plat
 
 ---
 
-🔗 **GitHub:** [LaptopHarbor GitHub Repo](https://github.com/MH-MuhammadHassan/LaptopHarbor)
+🔗 **GitHub:** [LaptopHarbor GitHub Repo](https://github.com/MH-MuhammadHassan/LaptopHarbor-E-Commerce-App)
 
 ---
 

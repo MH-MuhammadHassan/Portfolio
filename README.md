@@ -207,7 +207,7 @@ A beautifully crafted Weather App built with **Flutter**, delivering real-time w
 
 ---
 
-# 🧮 Flutter Calculator App – Elegant Arithmetic UI (Flutter + math_expressions)
+# 🧮 Flutter Calculator App
 
 ![Flutter Calculator Banner](fluttercalculatorbanner.jpg)
 

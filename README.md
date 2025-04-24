@@ -99,6 +99,10 @@ The **LaptopHarbor** app is crafted to offer users a seamless and efficient plat
 
 ---
 
+🔗 **GitHub:** [LaptopHarbor GitHub Repo](https://github.com/MH-MuhammadHassan/LaptopHarbor)
+
+---
+
 # 📰 Flutter News App – Live News with Filters (Flutter + REST API)
 
 ![Flutter News App Banner](flutternewsbanner.jpg)
@@ -167,6 +171,10 @@ The **Flutter News App** delivers a smooth and intuitive experience for browsing
 
 ---
 
+🔗 **GitHub:** [Flutter News App GitHub Repo](https://github.com/MH-MuhammadHassan/flutter_news_app)
+
+---
+
 # 🌦️ Weather App - Flutter
 
 ![Weather App Banner](weatherappbanner.jpg)
@@ -204,6 +212,10 @@ A beautifully crafted Weather App built with **Flutter**, delivering real-time w
   - [`intl`](https://pub.dev/packages/intl)
   - [`math_expressions`](https://pub.dev/packages/math_expressions)
   - [`shared_preferences`](https://pub.dev/packages/shared_preferences)
+
+---
+
+🔗 **GitHub:** [Weather App GitHub Repo](https://github.com/MH-MuhammadHassan/weather-app)
 
 ---
 
@@ -261,3 +273,30 @@ The **Flutter Calculator App** aims to provide users with a smooth, responsive, 
 
 ---
 
+🔗 **GitHub:** [Calculator App GitHub Repo](https://github.com/MH-MuhammadHassan/Flutter-Calculator-App)
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Hassan**  
+[LinkedIn](https://www.linkedin.com/in/mh-muhammadhassan/)
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!  
+Feel free to open issues or submit pull requests to enhance the project.
+
+---
+
+## 📞 Contact Me
+
+I'm open to freelance opportunities, collaborations, or full-time roles.
+
+**Muhammad Hassan**  
+📧 [LinkedIn Profile](https://www.linkedin.com/in/mh-muhammadhassan/)  
+📍 Location: Pakistan | 🌍 Remote Available  
+
+---

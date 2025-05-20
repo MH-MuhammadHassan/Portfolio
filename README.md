@@ -60,6 +60,56 @@ LaptopHarbor is a modern, scalable, and user-friendly mobile e-commerce applicat
 
 ---
 
+# 📚 EduLearn – E-Learning Mobile App (Flutter + Firebase)
+
+![EduLearn Banner](assets/EduLearn – E-Learning Mobile App.PNG)
+
+A cross-platform mobile app built using **Flutter**, designed for students to access online courses, take quizzes, and track their learning progress. Includes Firebase integration for authentication and real-time data handling.
+
+---
+
+### 📱 Application Features
+- 🔐 User registration and login via **Firebase Authentication**  
+- 🎥 Course video player with lesson tracking  
+- 📝 Quiz module with real-time scoring  
+- 📈 Progress tracker with weekly insights  
+- 🧾 Certificate generation after course completion  
+- 🌙 Light and dark mode switch  
+- 📱 Fully responsive UI for all screen sizes
+
+---
+
+### 🧾 Project Description
+EduLearn is focused on delivering a smooth, intuitive learning experience on mobile devices. The app enables users to explore multiple subjects, take interactive quizzes, and earn digital certificates.
+
+---
+
+### ✅ Functional Requirements
+- 🔐 Firebase Auth integration (Sign up / Login / Logout)  
+- 📂 Course library with video support  
+- 🧠 Quiz system with scoring logic  
+- 📊 Track user progress and learning stats  
+- 🧾 Generate downloadable certificates  
+- 🌙 Theme toggle (light/dark)
+
+---
+
+### 🧰 Tech Stack
+- **Framework:** Flutter (Dart)  
+- **Backend/Database:** Firebase  
+- **API Integration:** REST APIs for course and quiz content  
+- **Design & Prototyping:** Figma  
+- **Authentication:** Firebase Auth  
+- **State Management:** `setState` / FutureBuilder  
+- **Storage:** Firebase Cloud Firestore  
+- **Media:** Video Player package
+
+---
+
+🔗 **GitHub Repository:** [EduLearn App Repo](https://github.com/MH-MuhammadHassan/edulearn_app)
+
+
+
 # 📰 Flutter News App – Live News with Filters (Flutter + REST API)
 
 ![Flutter News App Banner](.github/images/flutternewsbanner.jpg)

@@ -104,6 +104,47 @@ EduLearn is focused on delivering a smooth, intuitive learning experience on mob
 - **Storage:** Firebase Cloud Firestore  
 - **Media:** Video Player package
 
+# 🏋️‍♂️ FitTrack – Fitness & Workout Tracker App (Flutter + Firebase)
+
+![FitTrack Banner](.github/images/FitTrack.png)
+
+A cross-platform mobile app built using **Flutter**, designed to help users stay consistent with their fitness goals through personalized workouts, daily logging, and detailed progress analytics.
+
+---
+
+### 📱 Application Features
+- 🔐 User authentication & profile management  
+- 🏃 Personalized daily workout plans  
+- 📚 Built-in exercise library  
+- 📈 Graphs for tracking weight & calorie burn  
+- ⏱️ Stopwatch & timer for workouts  
+- 🔔 Push notifications for reminders & streaks  
+
+---
+
+### 🧾 Project Description
+FitTrack enables users to follow structured workout routines, track their physical activity, and visualize their progress over time. With integrated timers and reminders, the app promotes daily engagement and fitness habit formation.
+
+---
+
+### ✅ Functional Requirements
+- 🧍 User sign-in/sign-up with Firebase  
+- 📆 Workout plans by day or week  
+- 📊 Charts for progress visualization (Chart.js)  
+- 🕒 In-app workout stopwatch and timer  
+- 🔔 Notifications via Firebase Cloud Messaging  
+- 📁 Backend integration with REST APIs
+
+---
+
+### 🧰 Tech Stack
+- **Framework:** Flutter (Dart)  
+- **Backend:** Firebase Authentication, Cloud Messaging  
+- **Charts:** Chart.js  
+- **UI State Management:** `setState`, FutureBuilder  
+- **Design:** Prototyped using Figma  
+- **API:** REST API integration for workout data
+
 ---
 
 # 📰 Flutter News App – Live News with Filters (Flutter + REST API)

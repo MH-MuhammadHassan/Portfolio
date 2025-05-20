@@ -62,7 +62,7 @@ LaptopHarbor is a modern, scalable, and user-friendly mobile e-commerce applicat
 
 # 📚 EduLearn – E-Learning Mobile App (Flutter + Firebase)
 
-![EduLearn Banner](assets/EduLearn – E-Learning Mobile App.PNG)
+![EduLearn Banner](assets/EduLearn.png)
 
 A cross-platform mobile app built using **Flutter**, designed for students to access online courses, take quizzes, and track their learning progress. Includes Firebase integration for authentication and real-time data handling.
 

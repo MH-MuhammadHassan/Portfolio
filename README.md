@@ -223,6 +223,49 @@ A clean, responsive weather app using **Flutter** and the **OpenWeatherMap API**
 
 ---
 
+# ✅ TaskFlow – Productivity & To-Do List App (Flutter + SQLite)
+
+![TaskFlow Banner](.github/images/TaskFlow.png)
+
+A sleek and modern productivity app built with **Flutter**, designed to help users manage daily tasks, prioritize goals, and stay organized with powerful features like categorization, drag & drop, and calendar views.
+
+---
+
+### 📱 Application Features
+- ➕ Add, edit, and delete tasks with categories  
+- 🚩 Priority tagging and due date reminders  
+- 🔃 Drag & drop for task organization  
+- 🗓️ Calendar view with day/week/month filters  
+- 🌙 Light & dark mode toggle for comfort  
+- 🔔 Notifications for task deadlines
+
+---
+
+### 🧾 Project Description
+TaskFlow is crafted for those who thrive on structure. It allows users to seamlessly manage their daily, weekly, and long-term to-dos with intuitive task flows and smart reminders. The minimal UI ensures distraction-free productivity with powerful underlying functionality.
+
+---
+
+### ✅ Functional Requirements
+- 📝 Task creation with categories and priority levels  
+- 🕒 Alerts for upcoming deadlines  
+- 🗂️ Organized calendar views  
+- 🔃 Drag & drop task ordering (for ease of planning)  
+- 🌗 Support for light and dark modes  
+- 💾 Local database using SQLite  
+
+---
+
+### 🧰 Tech Stack
+- **Framework:** Flutter (Dart)  
+- **Local Database:** SQLite  
+- **State Management:** Provider  
+- **Notifications:** Local Notifications Package  
+- **UI Design:** Figma  
+- **UI Patterns:** Custom widgets, ListView.builder
+
+---
+
 # 🧠 MindHabit – Daily Habit Tracker App (Flutter + Firebase)
 
 ![MindHabit Banner](.github/images/MindHabit.png)

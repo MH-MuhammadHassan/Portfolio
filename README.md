@@ -8,7 +8,7 @@ Welcome to my personal Flutter portfolio showcasing four high-performance mobile
 
 # 💻 LaptopHarbor – E-Commerce App (Flutter + Firebase)
 
-![LaptopHarbor Banner](.github/images/banner.jpg)
+![LaptopHarbor Banner](.github/images/LaptopHarbor.jpg)
 
 LaptopHarbor is a modern, scalable, and user-friendly mobile e-commerce application built using **Flutter** and **Firebase**. Designed for seamless shopping experiences, this app supports both **user and admin roles** with distinct dashboards and functionality.
 

@@ -106,10 +106,6 @@ EduLearn is focused on delivering a smooth, intuitive learning experience on mob
 
 ---
 
-🔗 **GitHub Repository:** [EduLearn App Repo](https://github.com/MH-MuhammadHassan/edulearn_app)
-
-
-
 # 📰 Flutter News App – Live News with Filters (Flutter + REST API)
 
 ![Flutter News App Banner](.github/images/flutternewsbanner.jpg)

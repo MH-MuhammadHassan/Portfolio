@@ -179,6 +179,48 @@ A clean, responsive weather app using **Flutter** and the **OpenWeatherMap API**
 
 ---
 
+# 🧠 MindHabit – Daily Habit Tracker App (Flutter + Firebase)
+
+![MindHabit Banner](.github/images/MindHabit.png)
+
+A minimalist mobile app built using **Flutter**, designed to help users build strong habits through daily tracking, visual streaks, and timely reminders.
+
+---
+
+### 📱 Application Features
+- ➕ Add, edit, and delete habits  
+- 📅 Calendar view for visualizing streaks  
+- 🔔 Push notifications for daily habit reminders  
+- 🎯 Streak-based motivation system  
+- 🌙 Clean and intuitive UI with light/dark mode  
+- 📱 Fully responsive and lightweight design
+
+---
+
+### 🧾 Project Description
+MindHabit is designed for simplicity and consistency. It allows users to focus on building better habits through daily check-ins and progress tracking. The app is distraction-free, lightweight, and perfect for personal productivity.
+
+---
+
+### ✅ Functional Requirements
+- 🧠 Add and manage multiple daily habits  
+- 📆 Calendar integration for streak tracking  
+- 🔔 Notifications using Firebase Cloud Messaging  
+- 💾 Local storage using SharedPreferences  
+- 🌙 Theme toggle support (optional/coming soon)
+
+---
+
+### 🧰 Tech Stack
+- **Framework:** Flutter (Dart)  
+- **Local Storage:** SharedPreferences  
+- **Notifications:** Firebase Cloud Messaging  
+- **UI State:** `setState`, FutureBuilder  
+- **Design:** Custom UI with minimalistic UX principles  
+- **Tooling:** Figma for UI prototyping
+
+---
+
 # 🧮 Flutter Calculator App
 
 ![Flutter Calculator Banner](.github/images/fluttercalculatorbanner.jpg)

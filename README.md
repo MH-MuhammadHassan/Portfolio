@@ -105,6 +105,8 @@ EduLearn is focused on delivering a smooth, intuitive learning experience on mob
 - **Storage:** Firebase Cloud Firestore  
 - **Media:** Video Player package
 
+---
+
 # 🏋️‍♂️ FitTrack – Fitness & Workout Tracker App (Flutter + Firebase)
 
 ![FitTrack Banner](.github/images/FitTrack.png)
